@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-no-var-reassign",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Disallow assignment to declared variables",
   "license": "MIT",
   "repository": "jacksonrayhamilton/eslint-plugin-no-var-reassign",
